@@ -6,6 +6,6 @@
 
 У цьому керівництві ви навчитеся запускати контейнери <b>MySQL Docker</b> разом з <b>Docker</b> контейнером <b>phpMyAdmin</b> за допомогою команди <b>docker-compose.</b></br>
 
-Коли створите свій файл docker-compose.yaml./br
+Коли створите свій файл <b>docker-compose.yaml</b>.</br>
 
 Потім виконайте наступну команду, <b>docker-compose up -d</b> щоб створити контейнери Docker за допомогою файлу конфігурації docker-compose.yml.
